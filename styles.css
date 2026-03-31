@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+#header-container {
+    display: flex;
+    justify-content: center;
+    gap: 50%;
+    background-color: rgb(177, 0, 184);
+    color: white;
+    padding: 20px;
+    border-bottom: 5px solid black;
+}
+.header-title {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+}
